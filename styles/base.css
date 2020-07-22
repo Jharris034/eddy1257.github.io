@@ -69,15 +69,19 @@ iframe {
   flex-grow: 1;
   padding: 1rem;
 }
+
+
 .banner {
   background: url('../images/night-sky-2758741-2.jpg');
   background-size: cover;
   min-height: 50vh;
   padding: 3rem;
   text-align: center;
+}
+
+
 .profile-img{
   max-height: 33vh;
-  
   width: auto;
 border-radius: 50%;
 } 
