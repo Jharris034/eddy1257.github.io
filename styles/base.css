@@ -95,3 +95,17 @@ iframe {
   width: auto;
 border-radius: 50%;
 } 
+
+.favorite-animal{
+  background: #cde6ff;
+  border:15px groove #ffe6cd;
+}
+.biome{
+  background: #ffcdcd;
+  border:15px groove #cdffe6;
+}
+  
+.weather{
+  background: #e6ffcd;
+  border: 15px groove #cdcdff;
+}
