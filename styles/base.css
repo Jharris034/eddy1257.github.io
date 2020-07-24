@@ -109,3 +109,27 @@ border-radius: 50%;
   background: #e6ffcd;
   border: 15px groove #cdcdff;
 }
+
+.btn {
+  padding: 2rem 5rem;
+  background: #d17a7a;
+  color: #7aa6d1;
+  font-size: 2rem;
+  border-radius: .25rem;
+  letter-spacing: 2px;
+  text-tranform: uppercase;
+  text-decoration: none;
+  border: 2px double #e6ffcd;
+  transition: all .5s ease;
+}
+ .btn: hover {
+   border: 10px groove #e6ffcd;
+   border-radius: .1rem;
+   letter-spacing: 4px;
+}
+  
+.copyright{
+  text-align:center;
+  padding: 2rem;
+  margin-top: 5rem;
+}
